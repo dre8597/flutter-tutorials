@@ -18,6 +18,8 @@ Please clone and star this repo to stay up to date on changes.
 
 ## Tutorials
 
+**047 - Firebase and Flutter Part 10 - Remote Config** \[ [Video](https://youtu.be/mPghiKYKUV4) \] \[ [Written](https://www.filledstacks.com/post/remote-config-in-flutter/) \] - This tutorial goes over remote config and how to manage it in a flutter project.
+
 **046 - Firebase and Flutter Part 9 - Dynamic Links in Flutter** \[ [Video](https://youtu.be/aBrRJqrQTpQ) \] \[ [Written](https://www.filledstacks.com/post/dynamic-links-in-flutter-a-complete-guide/) \] - This tutorial covers the use of dynamic links in flutter to perform auto routing and deep linking.
 
 **045 - Firebase and Flutter Part 8 - Realtime Paginated Data using Firestore** \[ [Video](https://youtu.be/1chV50D5BVU) \] \[ [Written](https://www.filledstacks.com/post/how-to-perform-real-time-pagination-with-firestore/) \] - This tutorial shows the implementation of getting real time firebase data when impelementing an infinte scrolling view.
